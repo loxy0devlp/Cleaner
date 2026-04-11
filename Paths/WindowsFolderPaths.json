@@ -1,0 +1,121 @@
+{
+    "Windows System": [
+        ["%PATH_APPDATA_LOCAL%", "Temp"],
+        ["%PATH_APPDATA_LOCAL%", "cache"],
+        ["%PATH_APPDATA_LOCAL%", "CrashDumps"],
+        ["%PATH_APPDATA_LOCAL%", "D3DSCache"],
+        ["%PATH_APPDATA_LOCAL%", "ConnectedDevicesPlatform"],
+        ["%PATH_APPDATA_LOCAL%", "Packages", "Microsoft.WindowsTerminal_*/LocalState"],
+        ["%PATH_APPDATA_LOCAL%", "Microsoft", "Windows", "Caches"],
+        ["%PATH_APPDATA_LOCAL%", "Microsoft", "Windows", "Burn"],
+        ["%PATH_APPDATA_LOCAL%", "Microsoft", "Windows", "WebCache"],
+        ["%PATH_APPDATA_LOCAL%", "Microsoft", "Windows", "Application Shortcuts"],
+        ["%PATH_APPDATA_LOCAL%", "Microsoft", "Windows", "Temporary Internet Files"],
+        ["%PATH_APPDATA_LOCAL%", "Microsoft", "Windows", "History"],
+        ["%PATH_APPDATA_LOCAL%", "Microsoft", "Windows", "Explorer"],
+        ["%PATH_APPDATA_LOCAL%", "Microsoft", "Windows", "INetCache"],
+        ["%PATH_APPDATA_LOCAL%", "Microsoft", "Windows", "INetCookies"],
+        ["%PATH_APPDATA_LOCAL%", "Microsoft", "Windows", "WER"],
+        ["%PATH_APPDATA_LOCAL%", "Microsoft", "Windows", "Notifications"],
+        ["%PATH_APPDATA_LOCAL%", "Microsoft", "Windows", "Clipboard"],
+        ["%PATH_APPDATA_LOCAL%", "Microsoft", "Windows", "PowerShell"],
+        ["%PATH_APPDATA_LOCAL%", "Microsoft", "Windows", "PRICache"],
+        ["%PATH_APPDATA_LOCAL%", "Microsoft", "Windows", "PPBCompatUaCache"],
+        ["%PATH_APPDATA_LOCAL%", "Microsoft", "Windows", "PPBCompatCache"],
+        ["%PATH_APPDATA_LOCAL%", "Microsoft", "Windows", "Shell"],
+        ["%PATH_APPDATA_LOCAL%", "Microsoft", "Windows", "TaskManager"],
+        ["%PATH_APPDATA_LOCAL%", "Microsoft", "Windows", "ActionCenterCache"],
+        ["%PATH_APPDATA_LOCAL%", "Microsoft", "Windows", "Recent"],
+        ["%PATH_APPDATA_ROAMING%", "Microsoft", "Windows", "Recent"],
+        ["%PATH_APPDATA_ROAMING%", "Microsoft", "Windows", "Cookies"],
+        ["%PATH_APPDATA_ROAMING%", "Microsoft", "Windows", "PowerShell", "PSReadLine"],
+        ["%PATH_PROGRAM_DATA%", "Microsoft", "Windows", "WER"],
+        ["%PATH_PROGRAM_DATA%", "Microsoft", "Windows", "EventLogs"],
+        ["%PATH_PROGRAM_DATA%", "Microsoft", "Windows", "Diagnosis"],
+        ["%PATH_PROGRAM_DATA%", "Microsoft", "Diagnosis"],
+        ["%PATH_PROGRAM_DATA%", "Microsoft", "Search", "Data"],
+        ["%PATH_PROGRAM_DATA%", "Package Cache"],
+        ["%PATH_USER%", "Documents", "PowerShell", "Transcripts"],
+        ["%PATH_USER%", "Documents", "temp"],
+        ["%PATH_USER%", "Downloads"],
+        ["%PATH_USER%", "Pictures", "Screenshots"],
+        ["%PATH_SYSTEM_ROOT%", "Temp"],
+        ["%PATH_SYSTEM_ROOT%", "Prefetch"],
+        ["%PATH_SYSTEM_ROOT%", "Logs"],
+        ["%PATH_SYSTEM_ROOT%", "Panther"],
+        ["%PATH_SYSTEM_ROOT%", "Debug"],
+        ["%PATH_SYSTEM_ROOT%", "Minidump"],
+        ["%PATH_SYSTEM_ROOT%", "System32", "LogFiles"],
+        ["%PATH_SYSTEM_ROOT%", "System32", "winevt", "Logs"],
+        ["%PATH_SYSTEM_ROOT%", "System32", "sru"],
+        ["%PATH_SYSTEM_ROOT%", "System32", "Tasks"],
+        ["%PATH_SYSTEM_ROOT%", "System32", "spool", "PRINTERS"],
+        ["%PATH_SYSTEM_ROOT%", "System32", "config", "systemprofile", "AppData", "Local", "Microsoft", "Windows", "Notifications"],
+        ["%PATH_SYSTEM_ROOT%", "System32", "config", "systemprofile", "AppData", "Local", "Microsoft", "Windows", "Caches"],
+        ["%PATH_SYSTEM_ROOT%", "System32", "config", "systemprofile", "AppData", "Local", "Microsoft", "Windows", "Explorer"],
+        ["%PATH_SYSTEM_ROOT%", "SoftwareDistribution", "Download"],
+        ["%PATH_SYSTEM_ROOT%", "SoftwareDistribution", "DataStore"]
+    ],
+    "Visual Studio Code": [
+        ["%PATH_APPDATA_ROAMING%", "Code", "Backups"],
+        ["%PATH_APPDATA_ROAMING%", "Code", "blob_storage"],
+        ["%PATH_APPDATA_ROAMING%", "Code", "Cache"],
+        ["%PATH_APPDATA_ROAMING%", "Code", "CachedData"],
+        ["%PATH_APPDATA_ROAMING%", "Code", "CachedProfilesData"],
+        ["%PATH_APPDATA_ROAMING%", "Code", "Code Cache"],
+        ["%PATH_APPDATA_ROAMING%", "Code", "Crashpad"],
+        ["%PATH_APPDATA_ROAMING%", "Code", "DawnGraphiteCache"],
+        ["%PATH_APPDATA_ROAMING%", "Code", "DawnWebGPUCache"],
+        ["%PATH_APPDATA_ROAMING%", "Code", "GPUCache"],
+        ["%PATH_APPDATA_ROAMING%", "Code", "logs"],
+        ["%PATH_APPDATA_ROAMING%", "Code", "Network"],
+        ["%PATH_APPDATA_ROAMING%", "Code", "Service Worker"],
+        ["%PATH_APPDATA_ROAMING%", "Code", "Session Storage"],
+        ["%PATH_APPDATA_ROAMING%", "Code", "Shared Dictionary"],
+        ["%PATH_APPDATA_ROAMING%", "Code", "User", "History"],
+        ["%PATH_APPDATA_ROAMING%", "Code", "User", "workspaceStorage"],
+        ["%PATH_APPDATA_ROAMING%", "Code", "WebStorage"]
+    ],
+    "Libre Office": [
+        ["%PATH_APPDATA_ROAMING%", "LibreOffice"]
+    ],
+    "CCleaner": [
+        ["%PATH_APPDATA_ROAMING%", "CCleaner", "dumps"],
+        ["%PATH_APPDATA_ROAMING%", "CCleaner", "Log"]
+    ],
+    "MySQL": [
+        ["%PATH_APPDATA_ROAMING%", "MySQL", "mysqlsh"],
+        ["%PATH_APPDATA_ROAMING%", "MySQL", "Workbench", "cache"],
+        ["%PATH_APPDATA_ROAMING%", "MySQL", "Workbench", "log"],
+        ["%PATH_APPDATA_ROAMING%", "MySQL", "Workbench", "sql_history"],
+        ["%PATH_PROGRAM_DATA%", "MySQL", "MySQL Installer for Windows", "Logs"],
+        ["%PATH_PROGRAM_DATA%", "MySQL", "MySQL Installer for Windows", "Product Cache"]
+    ],
+    "Session": [
+        ["%PATH_APPDATA_ROAMING%", "Session", "Cache"],
+        ["%PATH_APPDATA_ROAMING%", "Session", "logs"],
+        ["%PATH_APPDATA_ROAMING%", "Session", "Shared Dictionary"]
+    ],
+    "Telegram": [
+        ["%PATH_APPDATA_ROAMING%", "Telegram Desktop", "tdata", "user_data", "cache"],
+        ["%PATH_APPDATA_ROAMING%", "Telegram Desktop", "tdata", "user_data", "media_cache"],
+        ["%PATH_APPDATA_ROAMING%", "Telegram Desktop", "tdata", "temp"]
+    ],
+    "Mullvad VPN": [
+        ["%PATH_APPDATA_LOCAL%", "Mullvad VPN", "Cache"],
+        ["%PATH_APPDATA_LOCAL%", "Mullvad VPN", "Code Cache"],
+        ["%PATH_APPDATA_LOCAL%", "Mullvad VPN", "blob_storage"],
+        ["%PATH_APPDATA_LOCAL%", "Mullvad VPN", "GPUCache"],
+        ["%PATH_APPDATA_LOCAL%", "Mullvad VPN", "logs"],
+        ["%PATH_APPDATA_LOCAL%", "Mullvad VPN", "Shared Dictionary"],
+        ["%PATH_APPDATA_LOCAL%", "Mullvad VPN", "Service Worker"],
+        ["%PATH_APPDATA_LOCAL%", "Mullvad VPN", "Session Storage"],
+        ["%PATH_PROGRAM_DATA%", "Mullvad VPN"]
+    ],
+    "Tor": [
+        ["%PATH_TOR%", "TorBrowser", "Data", "Browser", "Caches"]
+    ],
+    "EmEditor": [
+        ["%PATH_APPDATA_ROAMING%", "Emurasoft", "EmEditor", "Common"]
+    ]
+  }

@@ -1,0 +1,34 @@
+{
+    "Linux System": [
+        ["%PATH_USER%", ".vminfo"],
+        ["%PATH_USER%", ".xsession-errors"],
+        ["%PATH_USER%", ".zsh_history"],
+        ["%PATH_USER%", ".local", "share", "recently-used.xbel"],
+        ["%PATH_USER%", ".local", "share", "applications", "mimeinfo.cache"]
+    ],
+    "Session": [
+        ["%PATH_USER%", ".config", "Session", "crash-log.txt"]
+    ],
+    "Telegram": [
+        ["%PATH_USER%", ".local", "share", "TelegramDesktop", "log.txt"],
+        ["%PATH_USER%", ".local", "share", "TelegramDesktop", "log_start0.txt"],
+        ["%PATH_USER%", ".local", "share", "TelegramDesktop", "log_start1.txt"],
+        ["%PATH_USER%", ".local", "share", "TelegramDesktop", "log_start2.txt"],
+        ["%PATH_USER%", ".local", "share", "TelegramDesktop", "log_start3.txt"]
+    ],
+    "Tor": [
+        ["%PATH_USER%", ".tor", "cached-certs"],
+        ["%PATH_USER%", ".tor", "cached-microdesc-consensus"],
+        ["%PATH_USER%", ".tor", "cached-microdescs.new"],
+        ["%PATH_USER%", ".tor", "lock"],
+        ["%PATH_USER%", ".tor", "state"],
+        ["%PATH_USER%", ".local", "share", "torbrowser", "tbb", "x86_64", "tor-browser", "Browser", "TorBrowser", "Data", "Tor", "cached-certs"],
+        ["%PATH_USER%", ".local", "share", "torbrowser", "tbb", "x86_64", "tor-browser", "Browser", "TorBrowser", "Data", "Tor", "cached-microdesc-consensus"],
+        ["%PATH_USER%", ".local", "share", "torbrowser", "tbb", "x86_64", "tor-browser", "Browser", "TorBrowser", "Data", "Tor", "cached-microdescs"],
+        ["%PATH_USER%", ".local", "share", "torbrowser", "tbb", "x86_64", "tor-browser", "Browser", "TorBrowser", "Data", "Tor", "cached-microdescs.new"],
+        ["%PATH_USER%", ".local", "share", "torbrowser", "tbb", "x86_64", "tor-browser", "Browser", "TorBrowser", "Data", "Tor", "state"]
+    ],
+    "Mullvad VPN": [
+        ["/etc", "mullvad-vpn", "account-history.json"]
+    ]
+  }

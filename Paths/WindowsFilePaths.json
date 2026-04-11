@@ -1,0 +1,24 @@
+{
+    "Windows System": [
+        ["%PATH_APPDATA_LOCAL%", "IconCache.db"],
+        ["%PATH_APPDATA_LOCAL%", "UsrClass.dat*"],
+        ["%PATH_APPDATA_LOCAL%", "Microsoft", "Windows", "IconCache.db"],
+        ["%PATH_APPDATA_LOCAL%", "Microsoft", "Windows", "UsrClass.dat*"]
+    ],
+    "Visual Studio Code": [
+        ["%PATH_APPDATA_ROAMING%", "Code", "User", "storage.json"]
+    ],
+    "Session": [
+        ["%PATH_APPDATA_ROAMING%", "Session", "crash-log.txt"]
+    ],
+    "Modern CSV": [
+        ["%PATH_APPDATA_ROAMING%", "Modern CSV", "Modern CSV.ini"]
+    ],
+    "Tor": [
+        ["%PATH_TOR%", "TorBrowser", "Data", "Torcached-certs"],
+        ["%PATH_TOR%", "TorBrowser", "Data", "Torcached-microdesc-consensus"],
+        ["%PATH_TOR%", "TorBrowser", "Data", "Torcached-microdescs.new"],
+        ["%PATH_TOR%", "TorBrowser", "Data", "Torlock"],
+        ["%PATH_TOR%", "TorBrowser", "Data", "Torstate"]
+    ]
+  }

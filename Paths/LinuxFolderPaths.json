@@ -1,0 +1,66 @@
+{
+    "Linux System": [
+        ["%PATH_TMP_1%"],
+        ["%PATH_TMP_2%"],
+        ["%PATH_USER%", ".cache"],
+        ["%PATH_VAR%", "log"],
+        ["%PATH_VAR%", "cache"],
+        ["%PATH_VAR%", "backups"],
+        ["%PATH_VAR%", "tmp"],
+        ["%PATH_VAR%", "run", "log"],
+        ["%PATH_USER%", ".local", "share", "gnome"]
+    ],
+    "Visual Studio Code": [
+        ["%PATH_USER%", ".config", "Code", "Backups"],
+        ["%PATH_USER%", ".config", "Code", "blob_storage"],
+        ["%PATH_USER%", ".config", "Code", "Cache"],
+        ["%PATH_USER%", ".config", "Code", "CachedData"],
+        ["%PATH_USER%", ".config", "Code", "CachedProfilesData"],
+        ["%PATH_USER%", ".config", "Code", "Code Cache"],
+        ["%PATH_USER%", ".config", "Code", "Crashpad"],
+        ["%PATH_USER%", ".config", "Code", "DawnGraphiteCache"],
+        ["%PATH_USER%", ".config", "Code", "DawnWebGPUCache"],
+        ["%PATH_USER%", ".config", "Code", "GPUCache"],
+        ["%PATH_USER%", ".config", "Code", "logs"],
+        ["%PATH_USER%", ".config", "Code", "Service Worker"],
+        ["%PATH_USER%", ".config", "Code", "Session Storage"],
+        ["%PATH_USER%", ".config", "Code", "Shared Dictionary"],
+        ["%PATH_USER%", ".config", "Code", "User", "History"],
+        ["%PATH_USER%", ".config", "Code", "User", "workspaceStorage"],
+        ["%PATH_USER%", ".config", "Code", "WebStorage"],
+        ["%PATH_USER%", "Downloads"]
+    ],
+    "Libre Office": [
+        ["%PATH_USER%", ".config", "libreoffice"]
+    ],
+    "Session": [
+        ["%PATH_USER%", ".config", "Session", "Cache"],
+        ["%PATH_USER%", ".config", "Session", "logs"],
+        ["%PATH_USER%", ".config", "Session", "Shared Dictionary"]
+    ],
+    "Mullvad VPN": [
+        ["%PATH_USER%", ".config", "Mullvad VPN", "Cache"],
+        ["%PATH_USER%", ".config", "Mullvad VPN", "Code Cache"],
+        ["%PATH_USER%", ".config", "Mullvad VPN", "blob_storage"],
+        ["%PATH_USER%", ".config", "Mullvad VPN", "GPUCache"],
+        ["%PATH_USER%", ".config", "Mullvad VPN", "logs"],
+        ["%PATH_USER%", ".config", "Mullvad VPN", "Shared Dictionary"],
+        ["%PATH_USER%", ".config", "Mullvad VPN", "Service Worker"],
+        ["%PATH_USER%", ".config", "Mullvad VPN", "Session Storage"]
+    ],
+    "Sqlmap": [
+        ["%PATH_USER%", ".local", "share", "sqlmap", "output"],
+        ["%PATH_USER%", ".local", "share", "sqlmap", "history"]
+    ],
+    "John": [
+        ["%PATH_USER%", ".john"]
+    ],
+    "Tor": [
+        ["%PATH_USER%", ".local", "share", "torbrowser", "tbb", "x86_64", "tor-browser", "Browser", "Desktop"],
+        ["%PATH_USER%", ".local", "share", "torbrowser", "tbb", "x86_64", "tor-browser", "Browser", "Downloads"],
+        ["%PATH_USER%", ".local", "share", "torbrowser", "tbb", "x86_64", "tor-browser", "Browser", "TorBrowser", "Data", "Browser", "Caches"]
+    ],
+    "Trash": [
+        ["%PATH_USER%", ".local", "share", "Trash"]
+    ]
+  }
