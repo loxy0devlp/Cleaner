@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  This tool is a Python script that removes all traces from software, browsers, and the system (files, caches, histories, logs, and registry) with secure data overwriting.
+  This tool is a Python script that removes all traces from software, browsers, and the system (files, caches, histories, logs, and registry) with secure data overwriting to prevent forensic analysis.
 </p>
 
 <h2>🚀 Features:</h2>
