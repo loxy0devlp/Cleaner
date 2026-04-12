@@ -177,7 +177,7 @@ def DeleteSubkeys(category_name, key, subkey_path, registry_key):
             while True:
                 try:
                     subkey_name = winreg.EnumKey(k, i)
-                    DeleteSubkeys(k, subkey_name)
+                    DeleteSubkeys(category_name, k, subkey_name, registry_key)
                 except: break
                 i += 1
         winreg.DeleteKey(key, subkey_path)
