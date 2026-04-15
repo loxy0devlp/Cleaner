@@ -1,12 +1,15 @@
-# Copyright (c) Cleaner by Loxy0dev
+# Copyright (c) Cleaner by Loxy0devlp
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license text.
 
 import os, colorama, ctypes, sys, tempfile, pathlib, string, json, shutil
 
 credits = {
     "tool_name"    : "Cleaner",
     "tool_version" : "1.0",
+    "tool_license" : "MIT License",
+    "tool_github"  : "github.com/loxy0devlp/Cleaner",
     "developer"    : "loxy0dev",
-    "github"       : "github.com/loxy0devlp/Cleaner",
     "gunslol"      : "guns.lol/loxy0dev"
 }
 
@@ -35,7 +38,7 @@ banner = rf"""
                                    \     \___|  |_\  ___/ / __ \|   |  \  ___/|  | \/
                                     \________/____/\_____>______/___|__/\_____>__|   
 
-                                              {white + credits['github']}
+                                              {white + credits["tool_github"]}
 """
 
 path_folder_tool                 = os.path.dirname(os.path.abspath(__file__))
@@ -177,7 +180,7 @@ def DeleteSubkeys(category_name, key, subkey_path, registry_key):
             while True:
                 try:
                     subkey_name = winreg.EnumKey(k, i)
-                    DeleteSubkeys(k, subkey_name)
+                    DeleteSubkeys(category_name, k, subkey_name, registry_key)
                 except: break
                 i += 1
         winreg.DeleteKey(key, subkey_path)
