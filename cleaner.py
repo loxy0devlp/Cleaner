@@ -9,7 +9,7 @@ credits = {
     "tool_version" : "1.0",
     "tool_license" : "MIT License",
     "tool_github"  : "github.com/loxy0devlp/Cleaner",
-    "developer"    : "loxy0dev",
+    "developer"    : "loxy0devlp",
     "gunslol"      : "guns.lol/loxy0dev"
 }
 
